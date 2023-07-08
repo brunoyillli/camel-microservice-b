@@ -4,7 +4,7 @@ import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.model.dataformat.JsonLibrary;
 import org.springframework.stereotype.Component;
 
-import io.github.brunoyillli.camelmicroserviceb.CurrencyExchange;
+import io.github.brunoyillli.camelmicroserviceb.entity.CurrencyExchange;
 
 @Component
 public class KafkaMqReceiverRouter extends RouteBuilder{

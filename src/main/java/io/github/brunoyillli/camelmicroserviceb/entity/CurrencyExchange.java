@@ -1,4 +1,4 @@
-package io.github.brunoyillli.camelmicroserviceb;
+package io.github.brunoyillli.camelmicroserviceb.entity;
 
 import java.math.BigDecimal;
 
